@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving an unclosed paragraph tag.  The bug results in unexpected rendering behavior, especially in browsers that are less forgiving of malformed HTML. The solution shows how to correctly structure the HTML to avoid the issue.  This bug highlights the importance of proper HTML validation.
